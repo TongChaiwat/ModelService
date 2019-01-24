@@ -32,6 +32,9 @@ public class MainActivity extends AppCompatActivity {
                         val.getResult().getData().getEmail()
                         +"\n"+val.getResult().getData().getMobileNumber(),Toast.LENGTH_LONG)
                         .show();
+
+
+                int qcc = 2;
             }
             @Override
             public void showMsg(String msg) {
